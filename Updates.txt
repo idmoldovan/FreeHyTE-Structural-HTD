@@ -1,0 +1,4 @@
+12.12.2017
+As compared to Version 1.2.1, 
+- all routines were thoroughly commented;
+- sparse storage capability was added for triangular meshes.
